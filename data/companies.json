@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "ChargeNational",
+    "description": "ChargeNational specializes in offering a customized, unique approach that includes listening to customer feedback to offer better services.",
+    "rating": 2.33,
+    "ratingStars": 2,
+    "reviewCount": 10,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "MBF Leasing",
+    "description": "Micro-ticket leasing to small and medium-sized businesses.",
+    "rating": 1.0,
+    "ratingStars": 1,
+    "reviewCount": 5,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "ZeerPay",
+    "description": "ZeerPay primarily offers Clover™ solutions to customers as well as other hardware. They offer an Affiliate Reseller Program that allows merchants to refer potential new accounts for an ongoing commission.",
+    "rating": 3.0,
+    "ratingStars": 3,
+    "reviewCount": 15,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Merchant’s Choice Payment Solutions (PaySafe)",
+    "description": "Connecting 'brick and mortar' businesses with an online platform to increase marketing and streamline digital payments. With offices in twelve countries they operate on a worldwide level and offer their clients global exposure, but have the greatest presence in North America and Europe.",
+    "rating": 5.0,
+    "ratingStars": 5,
+    "reviewCount": 20,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "Aptito",
+    "description": "Aptito provides innovative solutions for restaurants and hospitality businesses.",
+    "rating": 4.5,
+    "ratingStars": 4,
+    "reviewCount": 8,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "name": "PayPal",
+    "description": "PayPal is a global leader in online payments, offering simple, safe ways to send and receive money.",
+    "rating": 4.0,
+    "ratingStars": 4,
+    "reviewCount": 30,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 7,
+    "name": "Square",
+    "description": "Square provides payment and point-of-sale solutions for businesses of all sizes.",
+    "rating": 4.3,
+    "ratingStars": 4,
+    "reviewCount": 25,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 8,
+    "name": "Stripe",
+    "description": "Stripe is a technology company that builds economic infrastructure for the internet, enabling businesses to accept payments and manage their businesses online.",
+    "rating": 4.6,
+    "ratingStars": 5,
+    "reviewCount": 50,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 9,
+    "name": "Adyen",
+    "description": "Adyen is a payment company that allows businesses to accept payments, send payouts, and manage risk.",
+    "rating": 4.4,
+    "ratingStars": 4,
+    "reviewCount": 22,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 10,
+    "name": "Worldpay",
+    "description": "Worldpay provides payment processing services for businesses, helping them grow and thrive in the digital economy.",
+    "rating": 3.9,
+    "ratingStars": 4,
+    "reviewCount": 18,
+    "image": "https://via.placeholder.com/150"
+  }
+]
